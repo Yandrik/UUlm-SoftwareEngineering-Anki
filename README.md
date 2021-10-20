@@ -18,8 +18,11 @@ Found an error? Want to add some cards? Contributions are always welcome. There 
 
 ## How to edit
 
+* Clone the repository (`git clone https://github.com/Yandrik/UUlm-SoftwareEngineering-Anki.git`)
 * Make changes to cards
 * Export the deck as an `.apkg` file
+* Overwrite the `SE.apkg` in this repository
+* Commit the new changes 
 * Push the changed deck to a new branch in the repository (`git checkout -b fancychanges`, `git push -u origin fancychanges`)
 * Open a Pull Request describing your changes
 
@@ -27,4 +30,3 @@ Found an error? Want to add some cards? Contributions are always welcome. There 
 
 * Yannik Bretschneider: Initial deck
 * Maxim Switenko: Cards for Scrum and Waterfall model
-
