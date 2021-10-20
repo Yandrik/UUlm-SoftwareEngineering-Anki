@@ -8,8 +8,9 @@ It was created during the 2020/2021 lecture by Thomas Thüm.
 
 1. Download Anki [here](https://apps.ankiweb.net/) or via package manager
   (e.g. `choco install -y anki` for windows using [chocolatey](https://chocolatey.org))
-2. Import the deck into Anki (`File` -> `Import` -> choose `⁙ SE.apkg` -> profit)
-3. Optional: Install [Anki Image Occlusion](https://ankiweb.net/shared/info/1374772155) plugin (In the Anki GUI, navigate to `Anki` -> `Tools` -> `Add-ons` -> `Get Add-ons` -> Enter `1374772155` as code)
+2. Download the deck [here](https://github.com/Yandrik/UUlm-SoftwareEngineering-Anki/releases) or clone the repository
+3. Import the deck into Anki (`File` -> `Import` -> choose `⁙ SE.apkg` -> profit)
+4. Optional: Install [Anki Image Occlusion](https://ankiweb.net/shared/info/1374772155) plugin (In the Anki GUI, navigate to `Anki` -> `Tools` -> `Add-ons` -> `Get Add-ons` -> Enter `1374772155` as code)
 
 ## How to contribute
 Found an error? Want to add some cards? Contributions are always welcome. There are *two major ways to contribute*:
