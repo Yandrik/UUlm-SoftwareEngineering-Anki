@@ -2,7 +2,7 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
 Anki cards for the *Software Engineering* lecture of Ulm University.
-It was created during the 2020/2021 lecture by Thomas Thüm.
+It was created during the 2020/2021 lecture held by Thomas Thüm.
 
 ## How to use
 
